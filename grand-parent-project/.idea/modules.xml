@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent-mex/child1/child1.iml" filepath="$PROJECT_DIR$/parent-mex/child1/child1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-mex/child2/child2.iml" filepath="$PROJECT_DIR$/parent-mex/child2/child2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-col/child3/child3.iml" filepath="$PROJECT_DIR$/parent-col/child3/child3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grand-parent-project.iml" filepath="$PROJECT_DIR$/grand-parent-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-col/parent-col.iml" filepath="$PROJECT_DIR$/parent-col/parent-col.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent-mex/parent-mex.iml" filepath="$PROJECT_DIR$/parent-mex/parent-mex.iml" />
+    </modules>
+  </component>
+</project>
